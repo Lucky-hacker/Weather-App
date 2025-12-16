@@ -58,10 +58,10 @@ A fun and customizable weather forecast application that uses the Open‑Meteo A
   [https://leafletjs.com/](https://leafletjs.com/)
 
 ## Source Code 👇 
-[Weather App Source Code](https://github.com/monkey9-Cyber-cat-Spidy/Weather-app/)
+[Weather App Source Code](https://github.com/lucky-hacker/Weather-App/)
 ## Contact 📬
 
-- **LinkedIn:** [kvsmanikanta](https://www.linkedin.com/in/kvsmanikanta)
+- **LinkedIn:** [kvsmanikanta](https://www.linkedin.com/lakshmisudeshna2035)
 
-- **GitHub:** [monkey9-Cyber-cat-Spidy](https://github.com/monkey9-Cyber-cat-Spidy)
+- **GitHub:** [lucky-hacker](https://github.com/lucky-hacker)
   
