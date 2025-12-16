@@ -61,7 +61,7 @@ A fun and customizable weather forecast application that uses the Open‑Meteo A
 [Weather App Source Code](https://github.com/lucky-hacker/Weather-App/)
 ## Contact 📬
 
-- **LinkedIn:** [kvsmanikanta](https://www.linkedin.com/lakshmisudeshna2035)
+- **LinkedIn:** [lakshmisudeshna2035](https://www.linkedin.com/lakshmisudeshna2035)
 
-- **GitHub:** [lucky-hacker](https://github.com/lucky-hacker)
+- **GitHub:** [lucky-hacker](https://github.com/Lucky-hacker)
   
